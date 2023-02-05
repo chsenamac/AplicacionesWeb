@@ -1,0 +1,7 @@
+C:\Users\csena\OneDrive\Documentos\Repositorios de ejercicios\04-APPWEB-2022-31899838\Sitio web\Persistencia\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\csena\OneDrive\Documentos\Repositorios de ejercicios\04-APPWEB-2022-31899838\Sitio web\Persistencia\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\csena\OneDrive\Documentos\Repositorios de ejercicios\04-APPWEB-2022-31899838\Sitio web\Persistencia\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\csena\OneDrive\Documentos\Repositorios de ejercicios\04-APPWEB-2022-31899838\Sitio web\Persistencia\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\csena\OneDrive\Documentos\Repositorios de ejercicios\04-APPWEB-2022-31899838\Sitio web\Persistencia\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\csena\OneDrive\Documentos\Repositorios de ejercicios\04-APPWEB-2022-31899838\Sitio web\Persistencia\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\csena\OneDrive\Documentos\Repositorios de ejercicios\04-APPWEB-2022-31899838\Sitio web\Persistencia\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\csena\OneDrive\Documentos\Repositorios de ejercicios\04-APPWEB-2022-31899838\Sitio web\EntidadesCompartidas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\csena\OneDrive\Documentos\Repositorios de ejercicios\04-APPWEB-2022-31899838\Sitio web\EntidadesCompartidas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\csena\OneDrive\Documentos\Repositorios de ejercicios\04-APPWEB-2022-31899838\Sitio web\EntidadesCompartidas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\csena\OneDrive\Documentos\Repositorios de ejercicios\04-APPWEB-2022-31899838\Sitio web\EntidadesCompartidas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
